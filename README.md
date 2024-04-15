@@ -51,7 +51,7 @@ _Normal isn't on the menu in our realm._
 
 [Albert/Wahyu](https://github.com/albertstarfield) one of the [Project-Zephyrine](https://github.com/albertstarfield/project-zephyrine) AI Programmer and professional AI engineer [Willy](https://github.com/willy030125) know Nvidia's the name of the game when it comes to AI training and most of the AI inferencing hardware. 
 
-Albert, with his J414 Laptop and Rhodes Chop ARM chip, is all about universal AI Inference Interface development. Willy's got his RTX 3090 for some serious model training.
+Albert, with his J414 Laptop and Rhodes Chop (Apple M2 Pro) ARM chip, is all about universal AI Inference Interface development. Willy's got his RTX 3090 for some serious model training.
 
 AI training on Apple Silicon? Tough nut to crack, especially with the lack of Nvidia support. But the motivation to bridge the gap was strong.
 
@@ -59,7 +59,7 @@ AI training on Apple Silicon? Tough nut to crack, especially with the lack of Nv
 
 Albert and Willy live far apart, so they worked with limited networks and a consumer-grade connection. But hey, they got creative with Tailscale solution tunneling.
 
-Willy's got his i3-13th Gen RTX3090 hosted on Ubuntu with Juice Server running smoothly. Bandwidth varies between the two, but the mission's on track.
+Willy's got his i3-13100 Gen RTX3090 hosted on Ubuntu with Juice Server running smoothly. Bandwidth varies between the two, but the mission's on track.
 
 ![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr6.jpg)
 
