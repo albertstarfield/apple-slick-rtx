@@ -59,7 +59,7 @@ AI training on Apple Silicon? Tough nut to crack, especially with the lack of Nv
 
 Albert and Willy live far apart, so they worked with limited networks and a consumer-grade connection. But hey, they got creative with Tailscale solution tunneling.
 
-Willy's got his i3-13100 Gen RTX3090 hosted on Ubuntu with Juice Server running smoothly. Bandwidth varies between the two, but the mission's on track.
+Willy's got his i3-13100 Gen RTX3090 hosted on Ubuntu with Juice Server running smoothly. Bandwidth varies between the two (50mbps Symmetric on RTX side and 30mbps non symmetrical on Apple Silicon side), but the mission's on track.
 
 ![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr6.jpg)
 
