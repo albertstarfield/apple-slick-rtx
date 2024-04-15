@@ -56,7 +56,7 @@ Willy's got his i3-13th Gen RTX3090 hosted on Ubuntu with Juice Server running s
 
 ![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr6.jpg)
 
-![image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr6.png)
+![image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr2.png)
 
 ### Windows 11 x64 Instance Connection
 
