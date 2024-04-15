@@ -61,7 +61,7 @@ There are software solutions that allows to bridge GPU rasterization and capabil
 
 Albert and Willy live far apart, so they worked with limited networks and a consumer-grade connection. But hey, they got creative with Tailscale solution tunneling.
 
-Willy's got his i3-13100 Gen RTX3090 hosted on Ubuntu with Juice Server running smoothly. Bandwidth varies between the two (50mbps Symmetric on RTX side and 30mbps non symmetrical on Apple Silicon side), but the mission's on track.
+Willy's got his i3-12100 Gen RTX3090 hosted on Ubuntu with Juice Server running smoothly. Bandwidth varies between the two (50mbps Symmetric on RTX side and 30mbps non symmetrical on Apple Silicon side), but the mission's on track.
 
 Guidance on how to setup can be found [here](https://github.com/Juice-Labs/Juice-Labs/wiki/Install-Juice)
 
