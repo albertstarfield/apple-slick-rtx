@@ -41,13 +41,13 @@ Somebody did try working on a 3D driver fork, but the journey is long and uncert
 
 We forged ahead with some wild ideas. Connecting an Nvidia RTX 3090 seemed crazy, but hey, nothing's too absurd around here. 
 
-KVM's PCIe passthrough, Intel/AMD x64 MMIO support, and a lot of other tinkering required—check out [this guide](https://github.com/lateralblast/kvm-nvidia-passthrough). Let's just say this involved some intricate steps.
+There is a way using KVM's PCIe passthrough, Intel/AMD x64 MMIO support, and a lot of other tinkering required—check out [this guide](https://github.com/lateralblast/kvm-nvidia-passthrough). Let's just say this involved some intricate steps and definitely as far as i know, no support has been made for Apple Silicon, yet. However if you do have any information regarding to this, feel free to hit me up!
 
-Normal isn't on the menu in our realm.
+_Normal isn't on the menu in our realm._
 
 ### Juice-Labs and the AI World
 
-Albert/Wahyu one of the Project-Zephyrine AI Programmer and professional AI engineer Willy know Nvidia's the name of the game when it comes to AI training and most of the AI inferencing hardware. 
+[Albert/Wahyu](https://github.com/albertstarfield) one of the [Project-Zephyrine](https://github.com/albertstarfield/project-zephyrine) AI Programmer and professional AI engineer [Willy](https://github.com/willy030125) know Nvidia's the name of the game when it comes to AI training and most of the AI inferencing hardware. 
 
 Albert, with his J414 Laptop and Rhodes Chop ARM chip, is all about universal AI Inference Interface development. Willy's got his RTX 3090 for some serious model training.
 
