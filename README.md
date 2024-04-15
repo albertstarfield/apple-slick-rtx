@@ -31,8 +31,10 @@ Apple's latest macOS kernel and Nvidia? Forget about it. No Nvidia support for t
 UTM/qemu doesn't play nice with GPU 3D acceleration for Windows. You can check out the source:
 
 - [UTM Issues](https://github.com/utmapp/UTM/issues/3293)
-In this issue forum and im quote "No, there is no way, nor any work to bring DirectX accelerated graphics to it being made. It is what it is. Sorry to put down your hopes for it."
 
+> In this issue forum and im quote "No, there is no way, nor any work to bring DirectX accelerated graphics to it being made. It is what it is. Sorry to put down your hopes for it."
+
+#### Sorry to invalidate that argument but...
 Somebody did try working on a 3D driver fork, but the journey is long and uncertain. Check out the pull request [here](https://github.com/virtio-win/kvm-guest-drivers-windows/pull/943).
 
 ## Section II : Absurd Choices and the Mission
