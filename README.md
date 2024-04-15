@@ -67,7 +67,7 @@ Guidance on how to setup can be found [here](https://github.com/Juice-Labs/Juice
 
 ![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr6.jpg)
 
-![image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr2.png)
+
 
 ### Windows 11 x64 Instance Connection
 
@@ -75,12 +75,16 @@ Connected the x64 Windows 11 local instance Apple Silicon to the server, and voi
 
 Guidance on running program using this remote GPU or eGPU (external GPU) can be read from [here](https://github.com/Juice-Labs/Juice-Labs/wiki/Run-Juice)
 
+![image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr2.png)
 
 But here's the kicker—some glitches with Blender and memory translation issues. Sometimes the VM instance got weird, and Blender would crash and spit out some strange crap.
 
 ![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr3.png)
 
 ![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr4.png)
+
+
+#### Video Demo
 
 ### GNU/Linux x64 Instance Connection
 
