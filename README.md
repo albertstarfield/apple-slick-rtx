@@ -76,4 +76,6 @@ That's the lowdown on our journey. If you need more details or want to chat, hit
 #### Sidenote:
 > There's a reason why using Whole x64 emulation, is because the program relies on a familiar x64 memory address it seems thus using Windows on Arm or Linux using Rosetta/Box64/Fex-Emu cause a library load fail (Image coming soon).
 
+![image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr1.png)
+
 > This solution won't show up the GPU on Task manager or Device manager, since its Application specific GPU acceleration not system-wide
