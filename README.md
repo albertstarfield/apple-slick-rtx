@@ -28,7 +28,7 @@ Apple's latest macOS kernel and Nvidia? Forget about it. No Nvidia support for t
 
 ### The UTM & qemu ( Upstream Qemu )
 
-UTM/qemu doesn't play nice with GPU 3D acceleration for Windows. You can check out the source:
+UTM/qemu doesn't have GPU 3D acceleration for Windows (by default). You can check out the source:
 
 - [UTM Issues](https://github.com/utmapp/UTM/issues/3293)
 
