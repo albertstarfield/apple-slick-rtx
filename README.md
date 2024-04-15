@@ -1,4 +1,4 @@
-# Slick Apple-RTX Journey
+# Slick Apple-Slick-RTX Journey
 
 ### Apple Slick RTX Project Rundown
 
