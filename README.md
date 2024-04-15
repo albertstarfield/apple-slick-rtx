@@ -6,7 +6,7 @@ So, the big question: "Is that a UTM Windows 11 x64 VM running Vulkan (with GPU 
 
 Well, the answer's a confident **"Yes"**! We're talking full-on high-tech shenanigans here. 
 
-![Image](./images) 
+![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr5.jpg) 
 
 ### Apple Silicon, eGPUs, and the Real Deal
 
@@ -54,7 +54,9 @@ Albert and Willy live far apart, so they worked with limited networks and a cons
 
 Willy's got his i3-13th Gen RTX3090 hosted on Ubuntu with Juice Server running smoothly. Bandwidth varies between the two, but the mission's on track.
 
-![Image](./images)
+![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr6.jpg)
+
+![image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr6.png)
 
 ### Windows 11 x64 Instance Connection
 
@@ -62,7 +64,9 @@ Connected the x64 Windows 11 local instance Apple Silicon to the server, and voi
 
 But here's the kicker—some glitches with Blender and memory translation issues. Sometimes the VM instance got weird, and Blender would crash and spit out some strange crap.
 
-![Image](./images)
+![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr3.png)
+
+![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr4.png)
 
 ### Project Name: Apple-Slick-RTX
 
