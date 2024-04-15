@@ -4,7 +4,7 @@
 
 So, the big question: "Is that a UTM Windows 11 x64 VM running Vulkan (with GPU Acceleration) and an RTX 3090 on Apple Silicon?"
 
-Well, the answer's a confident **"Yes"**! We're just taking challenge about the argument that Apple Silicon will never get eGPU support. 
+Well, the answer's a confident **"Yes"** (With a twist)! We're just taking challenge about the argument that Apple Silicon will never get eGPU support. 
 
 ![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr5.jpg) 
 
@@ -81,6 +81,10 @@ But here's the kicker—some glitches with Blender and memory translation issues
 ![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr3.png)
 
 ![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr4.png)
+
+### GNU/Linux x64 Instance Connection
+
+The demo will be posted here soon
 
 ## Project Name: Apple-Slick-RTX
 
