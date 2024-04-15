@@ -55,7 +55,7 @@ Albert, with his J414 Laptop and Rhodes Chop (Apple M2 Pro) ARM chip, is all abo
 
 AI training on Apple Silicon? Tough nut to crack, especially with the lack of Nvidia support. But the motivation to bridge the gap was strong.
 
-There are software solutions that allows to bridge GPU rasterization and capability such as [VirtualGL](https://www.virtualgl.org/) But it is only limited to mesa and OpenGL. Then after a while we found something that for some reason really obscure among the community called [Juice-Lab](https://github.com/Juice-Labs/Juice-Labs). This solution allows for not only Graphics Vulkan+OpenGL but also Compute which is CUDA, but currently the community free edition support has ended and only designed for x86_64 (the only toolkit binaries and libraries they provide), but we think that's a good start.
+There are software solutions that allows to bridge GPU rasterization and capability such as [VirtualGL](https://www.virtualgl.org/) But it is only limited to mesa and OpenGL. Then after a while we found something that for some reason really obscure among the community rarely even discussed even on the "supposed setup like Intel/AMD Desktop with remote GPU" called [Juice-Lab](https://github.com/Juice-Labs/Juice-Labs). This solution allows for not only Graphics Vulkan+OpenGL but also Compute which is CUDA, but currently the community free edition support has ended and only designed for x86_64 (the only toolkit binaries and libraries they provide), but we think that's a good start.
 
 ### Networking and Challenges
 
@@ -63,7 +63,7 @@ Albert and Willy live far apart, so they worked with limited networks and a cons
 
 Willy's got his i3-13100 Gen RTX3090 hosted on Ubuntu with Juice Server running smoothly. Bandwidth varies between the two (50mbps Symmetric on RTX side and 30mbps non symmetrical on Apple Silicon side), but the mission's on track.
 
-Guidance on how to setup can be found (here)[https://github.com/Juice-Labs/Juice-Labs/wiki/Install-Juice]
+Guidance on how to setup can be found [here](https://github.com/Juice-Labs/Juice-Labs/wiki/Install-Juice)
 
 ![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr6.jpg)
 
@@ -73,7 +73,7 @@ Guidance on how to setup can be found (here)[https://github.com/Juice-Labs/Juice
 
 Connected the x64 Windows 11 local instance Apple Silicon to the server, and voila! Things rolled smoothly. Using x64 was crucial since other architectures encountered library load failures.
 
-Guidance on running program using this remote GPU or eGPU (external GPU) can be read from (here)[https://github.com/Juice-Labs/Juice-Labs/wiki/Run-Juice]
+Guidance on running program using this remote GPU or eGPU (external GPU) can be read from [here](https://github.com/Juice-Labs/Juice-Labs/wiki/Run-Juice)
 
 
 But here's the kicker—some glitches with Blender and memory translation issues. Sometimes the VM instance got weird, and Blender would crash and spit out some strange crap.
