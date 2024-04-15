@@ -1,12 +1,14 @@
 # Slick Apple-Slick-RTX Journey
 
-### Apple Slick RTX Project Rundown
+## Apple Slick RTX Project Rundown
 
 So, the big question: "Is that a UTM Windows 11 x64 VM running Vulkan (with GPU Acceleration) and an RTX 3090 on Apple Silicon?"
 
 Well, the answer's a confident **"Yes"**! We're just taking challenge about the argument that Apple Silicon will never get eGPU support. 
 
 ![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr5.jpg) 
+
+## Section I: Current Community Image/Paradigm
 
 ### Apple Silicon, eGPUs, and the Real Deal
 
@@ -18,13 +20,13 @@ Ever wonder if Apple Silicon laptops might get a boost with eGPU support? Sorry,
 - [Reddit: OpenBSD](https://www.reddit.com/r/openbsd/comments/1av6spr/egpu_support_im_planning_on_buying_mac_m3_in_the/)
 - [Apple Discussions](https://discussions.apple.com/thread/254022132?sortBy=best)
 
-### The GPU Conundrum
+### The eGPU/GPU on mac Conundrum
 
 Apple's latest macOS kernel and Nvidia? Forget about it. No Nvidia support for the latest gear—only AMD on Intel Macs.
 
 [Apple eGPU Support](https://support.apple.com/en-us/102363#:~:text=eGPUs%20are%20supported%20by%20any,the%20software%20on%20your%20Mac.&text=View%20the%20activity%20levels%20of,choose%20Window%20%3E%20GPU%20History.)
 
-### The UTM/qemu Situation
+### The UTM & qemu ( Upstream Qemu )
 
 UTM/qemu doesn't play nice with GPU 3D acceleration for Windows. You can check out the source:
 
@@ -32,7 +34,9 @@ UTM/qemu doesn't play nice with GPU 3D acceleration for Windows. You can check o
 
 Somebody did try working on a 3D driver fork, but the journey is long and uncertain. Check out the pull request [here](https://github.com/virtio-win/kvm-guest-drivers-windows/pull/943).
 
-### Absurd Choices and the Mission
+## Section II : Absurd Choices and the Mission
+
+### What can we do and its result?
 
 We forged ahead with some wild ideas. Connecting an Nvidia RTX 3090 seemed crazy, but hey, nothing's too absurd around here. 
 
@@ -68,7 +72,7 @@ But here's the kicker—some glitches with Blender and memory translation issues
 
 ![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr4.png)
 
-### Project Name: Apple-Slick-RTX
+## Project Name: Apple-Slick-RTX
 
 Why the name? Apple Silicon, pun of "slick," and a low-profile project running smooth as silk. Plus, the Nvidia RTX connection.
 
