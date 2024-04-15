@@ -72,8 +72,7 @@ But here's the kicker—some glitches with Blender and memory translation issues
 
 Why the name? Apple Silicon, pun of "slick," and a low-profile project running smooth as silk. Plus, the Nvidia RTX connection.
 
-That's the lowdown on our journey. If you need more details or want to chat, hit up me Albert/Wahyu or Willy.
-
+That's the lowdown on our journey. If you need more details or want to chat, hit up me [Albert/Wahyu](https://github.com/albertstarfield) or [Willy030125](https://github.com/willy030125).
 #### Sidenote:
 > There's a reason why using Whole x64 emulation, is because the program relies on a familiar x64 memory address it seems thus using Windows on Arm or Linux using Rosetta/Box64/Fex-Emu cause a library load fail (Image coming soon).
 
