@@ -79,10 +79,15 @@ Guidance on running program using this remote GPU or eGPU (external GPU) can be 
 
 But here's the kicker—some glitches with Blender and memory translation issues. Sometimes the VM instance got weird, and Blender would crash and spit out some strange crap.
 
+#### Graphical Workload test
+
 ![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr3.png)
 
 ![Image](https://raw.githubusercontent.com/albertstarfield/apple-slick-rtx/main/images/scr4.png)
 
+#### Compute Workload Test
+
+This will be add soon
 
 #### Video Demo
 
